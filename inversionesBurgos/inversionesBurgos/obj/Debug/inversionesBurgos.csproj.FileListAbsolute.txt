@@ -1,0 +1,15 @@
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.csprojAssemblyReference.cache
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.inicio.resources
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.Properties.Resources.resources
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.csproj.GenerateResource.cache
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.csproj.CoreCompileInputs.cache
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\bin\Debug\inversionesBurgos.exe.config
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\bin\Debug\inversionesBurgos.exe
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\bin\Debug\inversionesBurgos.pdb
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.exe
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.pdb
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.login.resources
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.formulario.resources
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.FormLink1.resources
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.FormLink2cs.resources
+C:\Users\Sergio M Jáquez E\Desktop\Inversiones Burgos\inversionesBurgos\inversionesBurgos\obj\Debug\inversionesBurgos.FormLink3.resources
